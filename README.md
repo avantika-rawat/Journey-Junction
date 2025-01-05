@@ -1,4 +1,4 @@
-# Journey-Junction
+# Journey-Junction - ONGOING
 A modern web platform built with Node.js, Express, MongoDB, and REST API, ensuring a fast, scalable, and responsive experience. The front-end utilizes HTML, CSS, JavaScript, and Bootstrap for an intuitive, mobile-first design.
 
 
